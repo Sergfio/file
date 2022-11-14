@@ -1,0 +1,16 @@
+{
+  "name": "file",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon main"
+  },
+  "keywords": [],
+  "author": "stefan focht",
+  "license": "ISC",
+  "dependencies": {
+    "file-system": "2.2.2",
+    "express": "4.18.2"
+  }
+}
