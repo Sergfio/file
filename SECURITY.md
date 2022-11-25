@@ -11,10 +11,10 @@ Die Version der Anwendung aktuell.
 | 4.0.x   | :x:
 | < 2.0   | :white_check_mark:                |
 
-## Schwachstellen 
+## Schwachstellen
 
 Bugs...
 
-
 ## Dev
+
 Geplant ist es in der nächsten Version die Sortieranwendung zu visialisieren.
