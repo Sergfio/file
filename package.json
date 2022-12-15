@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon main"
   },
-  "keywords": [],
+  "keywords": ["Einfaches Script, der Dateien Sortiert"],
   "author": "stefan focht",
   "license": "ISC",
   "dependencies": {
